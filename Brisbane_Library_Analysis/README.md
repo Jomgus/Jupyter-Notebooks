@@ -49,7 +49,7 @@ The website listing this dataset suggest the use of an API. This would have been
 ## Supplementary Analysis
 ![image](https://github.com/Jomgus/Jupyter-Notebooks/assets/96961712/508b96bc-f96a-444d-b44a-3fad29944d9c)
 
-Children books dominate the top 5 items checked out list with 3 entries. If anything, this shows there is a sort of consensus among children about their favorite books
+Children book authors dominate the *top 5 authors checked out* list with 3 entries. If anything, this shows there is a sort of consensus among children about their favorite books
 
 ![image](https://github.com/Jomgus/Jupyter-Notebooks/assets/96961712/b1834610-12bb-4c32-9868-1866198c4b41)
 
