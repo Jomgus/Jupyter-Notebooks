@@ -114,7 +114,7 @@ Picture books are the most popular item type
 
 ![image](https://github.com/Jomgus/Jupyter-Notebooks/assets/96961712/9d9b6c56-840d-4dbf-96e8-1ff4ca7b7885)
 
-Recommendations:
+## Recommendations:
 
 * Focus on enhancing the collection and promotion of children's books, as they dominate the top 5 most checked-out items.
 * Investigate the factors contributing to the significant drop-off in young adult readership and develop targeted strategies to reengage this age group, potentially by emphasizing paperbacks, graphic novels, and magazines.
