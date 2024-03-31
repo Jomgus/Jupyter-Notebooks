@@ -8,7 +8,7 @@ An exploratory analysis of San Francisco city employee salaries, investigating s
 
 ## Key Visuals
 
-Pay distribution across salaries. Hue set to year shows how while the trend remains consistant, there is less data for the later years.
+Pay distribution across salaries. Hue set to year shows that while the trend remains consistant, there is less data for the later years.
 
 ![image](https://github.com/Jomgus/Jupyter-Notebooks/assets/96961712/f14bb278-95b1-4b43-ac9a-42572dceb11f)
 
