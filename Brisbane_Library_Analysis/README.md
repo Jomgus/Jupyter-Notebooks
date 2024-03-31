@@ -46,6 +46,7 @@ The website listing this dataset suggests the use of an API. This would have bee
 * Fill NA rows in Language column with ENGLISH
 * Stripping unwanted characters from item titles
 * Formatting Date column to datetime so that we can extract the hours later
+
 ## Supplementary Analysis
 
 Children book authors dominate the *top 5 authors checked out* list with 3 entries. If anything, this shows there is a sort of consensus among children about their favorite books
