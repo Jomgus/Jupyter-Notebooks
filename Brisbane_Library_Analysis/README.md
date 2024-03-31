@@ -15,7 +15,7 @@ Busiest hours across Brisbane are consistently around 10am
 
 ![image](https://github.com/Jomgus/Jupyter-Notebooks/assets/96961712/858445b1-7cc4-4638-b0c6-074f263a2913)
 
-Young adults seem to check out exclusively paperbacks, graphic novels, and magazines. Emphasis should be placed on these to revive young adult interest in libraries. 
+Young adults seem to check out exclusively graphic novels, young adult fiction, and magazines. Emphasis should be placed on these to revive young adult interest in libraries. 
 
 ![image](https://github.com/Jomgus/Jupyter-Notebooks/assets/96961712/7674d7ad-85f3-48ed-bb9c-8ff9e6134712)
 
@@ -56,50 +56,55 @@ Most popular libraries in Brisbane
 
 ![image](https://github.com/Jomgus/Jupyter-Notebooks/assets/96961712/b1834610-12bb-4c32-9868-1866198c4b41)
 
+---
 
-| Branch Code | Branch Heading                    |
+Here's the chart ordered according to the provided dataframe:
+
+| Branch Code | Branch Heading |
 | ----------- | --------------------------------- |
-| MITL        | Mitchelton 24/7 Library Locker    |
-| VAN         | Mobile Library                    |
-| MBG         | Mt. Coot-tha                      |
-| MTG         | Mt. Gravatt                       |
-| MTO         | Mt. Ommaney                       |
-| NFM         | New Farm                          |
-| NFML        | New Farm 24/7 Library Locker      |
-| NDH         | Nundah                            |
-| POP         | Pop-up library                    |
-| SGT         | Sandgate                          |
-| SCR         | Stones Corner                     |
-| SBK         | Sunnybank Hills                   |
-| TWG         | Toowong                           |
-| WND         | West End                          |
-| WYN         | Wynnum                            |
-| ZIL         | Zillmere                          |
-| BSQ         | Brisbane Square Library           |
-| BUL         | Bulimba                           |
-| CRA         | Carina                            |
-| CRAL        | Carina 24/7 Library Locker        |
-| CNL         | Carindale                         |
-| CDE         | Chermside                         |
-| CPL         | Coopers Plains                    |
-| CDA         | Corinda                           |
-| EPK         | Everton Park                      |
-| FAI         | Fairfield                         |
-| GCY         | Garden City                       |
-| GNG         | Grange                            |
-| GNGL        | Grange 24/7 Library Locker        |
-| HAM         | Hamilton                          |
-| HPK         | Holland Park                      |
-| HPKL        | Holland Park 24/7 Library Locker  |
-| INA         | Inala                             |
-| IPY         | Indooroopilly                     |
-| KEN         | Kenmore                           |
-| MIT         | Mitchelton                        |
-| ANN         | Annerley                          |
-| ASH         | Ashgrove                          |
-| BNO         | Banyo                             |
-| BRR         | BrackenRidge                      |
-| BRRL        | BrackenRidge 24/7/ Library Locker |
+| CDE | Chermside |
+| SBK | Sunnybank Hills |
+| GCY | Garden City |
+| IPY | Indooroopilly |
+| ASH | Ashgrove |
+| WYN | Wynnum |
+| BSQ | Brisbane Square Library |
+| CNL | Carindale |
+| MTO | Mt. Ommaney |
+| KEN | Kenmore |
+| GNG | Grange |
+| TWG | Toowong |
+| HPK | Holland Park |
+| FAI | Fairfield |
+| BRR | BrackenRidge |
+| MIT | Mitchelton |
+| BUL | Bulimba |
+| NFM | New Farm |
+| CPL | Coopers Plains |
+| CDA | Corinda |
+| MTG | Mt. Gravatt |
+| NDH | Nundah |
+| ZIL | Zillmere |
+| SGT | Sandgate |
+| EPK | Everton Park |
+| INA | Inala |
+| BNO | Banyo |
+| HAM | Hamilton |
+| SCR | Stones Corner |
+| CRA | Carina |
+| WND | West End |
+| VAN | Mobile Library |
+| ANN | Annerley |
+| MBG | Mt. Coot-tha |
+| POP | Pop-up library |
+| MITL | Mitchelton 24/7 Library Locker |
+| NFML | New Farm 24/7 Library Locker |
+| CRAL | Carina 24/7 Library Locker |
+| GNGL | Grange 24/7 Library Locker |
+| HPKL | Holland Park 24/7 Library Locker |
+| BRRL | BrackenRidge 24/7/ Library Locker |
+
+---
 
 Chinese is the second most checked out language, which is consistent with Mandarin being Australia's [second most spoken language](https://profile.id.com.au/australia/language#:~:text=Overall%2C%2072.0%25%20of%20the%20population,using%20this%20language%20at%20home.)
 
