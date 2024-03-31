@@ -58,7 +58,7 @@ Most popular libraries in Brisbane
 
 ---
 
-Here's the chart ordered according to the provided dataframe:
+Branch names corresponding to their headings:
 
 | Branch Code | Branch Heading |
 | ----------- | --------------------------------- |
