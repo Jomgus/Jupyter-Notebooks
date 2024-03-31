@@ -6,7 +6,7 @@ The purpose of this project is to extract insights from reader behavior across B
 
 ## Key Insights
 
-**Juveniles and Adults compete for most active readers in Brisbane. Something alarming seems to happen between these age groups, as young adult activity is shown to drop off dramatically. This should be remedied by an approach that allocates resources towards promoting content catered toward the young adults of Brisbane Australia.**
+**Juveniles and Adults compete for most active readers in Brisbane. Something alarming seems to happen between these age groups, as young adult activity is shown to drop off dramatically. It would be beneficial to focus efforts in allocating resources towards promoting content catered toward the young adults of Brisbane Australia.**
 
 ## Key Visuals
 
