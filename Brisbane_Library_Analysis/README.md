@@ -1,9 +1,12 @@
 # Brisbane Libraries Data Analysis
-The purpose of this project is to extract insights from reader behavior in Brisbane Australia across its many different libraries.  
 
+The purpose of this project is to extract insights from reader behavior across Brisbane Australia's diverse network of libraries. 
+
+![image](https://readingradio.org.au/wp-content/uploads/2020/10/1600x600bsq-library_52-768x288.jpg)
 
 ## Key Insights
-Juveniles and Adults compete for most active readers in Brisbane. Young adult activity drops off dramatically. 
+
+**Juveniles and Adults compete for most active readers in Brisbane. Something alarming seems to happen between these age groups, as young adult activity is shown to drop off dramatically. This should be remedied by an approach that allocates resources towards promoting content catered toward the young adults of Brisbane Australia.**
 
 ## Key Visuals
 
